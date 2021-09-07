@@ -162,7 +162,7 @@ main {
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
-    color: var(--bitcoin-orange);
+    color: var(--secondary-blue);
 
 }
 
@@ -231,7 +231,7 @@ main {
     margin: 0 auto;
     margin-top: 15px;
     padding: 8px;
-    background-color: var(--soft-orange);
+    background-color: var(--soft-blue);
     border-radius: 8px;
   
 
