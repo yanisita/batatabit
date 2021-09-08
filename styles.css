@@ -448,7 +448,7 @@ main {
 .plan-card--saving {
     color: #757575;
 }
-.plan-card--ca {
+.plan-card--ca-recommended {
     width: 150px;
     height: 48px;
     margin-top: 20px;
@@ -462,7 +462,21 @@ main {
     font-family: "DM Sans", sans-serif;
     cursor: pointer;
 }
-.plan-card--ca span {
+.plan-card--ca {
+    width: 150px;
+    height: 48px;
+    margin-top: 20px;
+    background-color: #FAF8F7;
+    border: 2px solid var(--secondary-blue);
+    border-radius: 4px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 1.8rem;
+    color: var(--black);
+    font-family: "DM Sans", sans-serif;
+    cursor: pointer;
+}
+.plan-card--ca-recommended span {
     display: inline-block;
     width: 20px;
     height: 20px;
